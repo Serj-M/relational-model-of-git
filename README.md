@@ -1,2 +1,2 @@
 # relational-model-of-git
-Репозиторий содержит DDL структурированной реляционной модели данных Git, а также примеры SQL-запросов для оценки частоты изменений, связи с аварийными правками, участия разработчиков и трудозатрат.
+The repository contains the DDL of the Git structured relational data model, as well as example SQL queries for assessing change frequency, relationships with emergency edits, developer involvement, and effort.
