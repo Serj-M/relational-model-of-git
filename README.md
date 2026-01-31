@@ -1,6 +1,4 @@
-# Mining Software Repositories based on a relational model
-
-## Supplement to the Research Study
+# Mining Software Repositories based on a relational model (supplement to the research study)
 
 This repository contains materials for **Mining Software Repositories (MSR)** aimed at identifying code hotspots from a relational Git data model. The model provides end-to-end traceability **File → Commit → Pull Request → Issue**.
 
