@@ -1,0 +1,11 @@
+file_path,changes,rank_changes,developer_count,rank_authors,bugfix_change_count,rank_bugfix,avg_rank
+some_root_dir/.../some_file,158,2,5,8,46,4,4.666666666666667
+some_root_dir/.../some_file,73,11,7,1,51,3,5.0
+some_root_dir/.../some_file,98,5,5,8,40,5,6.0
+some_root_dir/.../some_file,100,4,5,8,36,8,6.666666666666667
+some_root_dir/.../some_file,212,1,4,18,86,1,6.666666666666667
+some_root_dir/.../some_file,85,8,6,2,29,11,7.0
+some_root_dir/.../some_file,68,13,6,2,37,7,7.333333333333333
+some_root_dir/.../some_file,113,3,4,18,39,6,9.0
+some_root_dir/.../some_file,77,9,4,18,33,9,12.0
+some_root_dir/.../some_file,63,15,4,18,26,13,15.333333333333334
